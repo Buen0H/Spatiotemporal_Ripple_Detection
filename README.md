@@ -12,7 +12,7 @@ matplotlib
 1. Follow Python installation instructions
 2. Download source code from github
 ```
-git clone 
+git clone https://github.com/Buen0H/Spatiotemporal_Ripple_Detection/
 cd spatiotiotemporal_ripple_detection
 ```
 3. (Recommended) Create and run virtual environment
@@ -42,5 +42,6 @@ pip install -r requirements
 
 ## Demo
 
-1. Open jupyter notebook and run cells
+1. Open jupyter notebook on your favorite IDE (e.g., VsCode, Anaconda)
+2. Run notebook cells on sample data
 
