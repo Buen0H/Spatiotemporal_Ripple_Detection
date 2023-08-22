@@ -13,7 +13,7 @@ matplotlib
 2. Download source code from github
 ```
 git clone https://github.com/Buen0H/Spatiotemporal_Ripple_Detection/
-cd spatiotiotemporal_ripple_detection
+cd Spatiotiotemporal_Ripple_Detection
 ```
 3. (Recommended) Create and run virtual environment
 Create a venv using python's integrated module venv
